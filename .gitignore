@@ -4,6 +4,8 @@ __pycache__/
 # data
 GRF/Data/
 GRF/ProcessedData/
+GRF/Data
+GRF/ProcessedData
 # GRF/checkpoint/
 
 # visualization
@@ -11,3 +13,4 @@ Visualization/aitviewer/
 Visualization/models/
 
 # *.ipynb
+.ipynb_checkpoints/
